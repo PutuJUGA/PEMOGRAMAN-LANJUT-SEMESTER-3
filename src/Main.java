@@ -1,7 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        //Code Sederhana untuk versi pertama
+        // Code sederhana untuk versi perubahan
         System.out.println("Aplikasi dimulai.");
-        System.out.println("Selamat datang di proyek pengendalian versi!");
+
+        // --- Perubahan untuk Commit Kedua ---
+        int x = 5;
+        int y = 10;
+        int sum = x + y;
+        System.out.println("Hasil penjumlahan: " + sum);
     }
 }
